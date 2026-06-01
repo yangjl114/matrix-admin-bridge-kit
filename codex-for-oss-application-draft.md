@@ -4,9 +4,9 @@ Use this draft for the OpenAI Codex for Open Source form.
 
 ## Applicant
 
-- Last name: TODO
-- First name: kevin
-- Email: 932584843@qq.com
+- Last name: YANG
+- First name: JUNLIN
+- Email: yangjl114@126.com
 - GitHub username: yangjl114
 - GitHub repository URL: https://github.com/yangjl114/matrix-admin-bridge-kit
 
