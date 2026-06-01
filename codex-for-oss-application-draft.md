@@ -29,7 +29,7 @@ public usage metrics.
 
 ## OpenAI Organization ID
 
-org-LbSxvDhidDsx2Fa3hOSbddiD
+TODO: keep private and paste directly into the OpenAI form.
 
 ## API Credit Usage
 
