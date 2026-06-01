@@ -1,0 +1,24 @@
+{
+  "name": "matrix-admin-bridge-kit",
+  "version": "0.1.0",
+  "description": "Readiness checks and config helpers for integrating business admin systems with Matrix/Synapse.",
+  "license": "MIT",
+  "type": "commonjs",
+  "bin": {
+    "matrix-admin-bridge-kit": "./src/index.js"
+  },
+  "scripts": {
+    "check": "node src/index.js examples/config.json",
+    "test": "node test/rules.test.js"
+  },
+  "keywords": [
+    "matrix",
+    "synapse",
+    "element",
+    "admin",
+    "readiness"
+  ],
+  "engines": {
+    "node": ">=16"
+  }
+}

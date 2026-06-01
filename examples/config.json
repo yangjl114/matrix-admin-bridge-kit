@@ -1,0 +1,21 @@
+{
+  "homeserver": {
+    "implementation": "synapse",
+    "database": "postgresql",
+    "adminApiPublic": false
+  },
+  "client": {
+    "elementWeb": true,
+    "embeddedInAdmin": true
+  },
+  "identity": {
+    "sso": true,
+    "businessSystemOwnsPermissions": true
+  },
+  "realtime": {
+    "turn": true,
+    "groupCalls": true,
+    "livekit": true,
+    "matrixRtcJwtService": true
+  }
+}
