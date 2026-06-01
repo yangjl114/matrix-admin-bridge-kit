@@ -29,7 +29,7 @@ public usage metrics.
 
 ## OpenAI Organization ID
 
-TODO: copy from https://platform.openai.com/settings/organization/general
+org-LbSxvDhidDsx2Fa3hOSbddiD
 
 ## API Credit Usage
 
